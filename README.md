@@ -74,3 +74,5 @@ The main objective of TechZentra is to make technical education more accessible,
 ---
 
 **TechZentra – Learn Today, Build Tomorrow.**
+
+Website deployment update.

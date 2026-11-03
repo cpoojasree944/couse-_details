@@ -1,1 +1,0 @@
-# couse-_details

@@ -1,78 +1,112 @@
-# TechZentra – Online Learning Platform
+# TechZentra – Technology Programs Catalogue
 
-## About the Project
+**Explore technology programs. Discover your learning path. Build your future.**
 
-TechZentra is a modern online learning platform designed to help students develop industry-relevant technical skills through structured courses, practical projects, and hands-on learning.
+## 📌 About the Project
 
-The platform provides information about different technology courses, their modules, tools, learning outcomes, and career opportunities.
+TechZentra is a technology education website designed to help students explore different technology programs and choose a learning format that suits their needs.
 
-## Features
+The platform presents a clean and modern interface where students can discover learning opportunities and understand different ways of gaining technical skills.
 
-- Modern and responsive user interface
-- Dark-themed website design
-- Detailed course information
-- Course modules and topics
-- Practical project descriptions
-- Technology and tools information
-- Learning outcomes and career opportunities
-- Certification information
-- Student-friendly course presentation
+It focuses on making course exploration simple, attractive, and student-friendly.
 
-## Courses Offered
+## 🎯 Project Objectives
 
-### 1. Data Analytics
-- Duration: 6 Months
-- Level: Intermediate
-- Technologies: Python, SQL, Excel, Power BI, Pandas
+- Provide students with an easy way to explore technology programs.
+- Present course information in an organized manner.
+- Support different learning preferences.
+- Create a clean, modern, and responsive user interface.
+- Make the learning journey easier to understand.
 
-### 2. Generative AI
-- Duration: 4 Months
-- Level: Beginner
-- Technologies: Python, Large Language Models (LLMs), Prompt Engineering, AI APIs
+## ✨ Key Features
 
-### 3. Full Stack Development
-- Duration: 6 Months
-- Level: Beginner
-- Technologies: HTML, CSS, JavaScript, React, Node.js
+### 1. Technology Programs Catalogue
+A dedicated section for exploring available technology programs.
 
-### 4. Machine Learning
-- Duration: 5 Months
-- Level: Advanced
-- Technologies: Python, NumPy, Pandas, Scikit-learn
+### 2. Flexible Learning Formats
 
-## Technologies Used
+The website highlights three learning options:
 
-- HTML5 – Website structure
-- CSS3 – Styling and responsive design
+- **College Learning:** Learning planned around college schedules, practical assignments, and projects.
+- **Online Learning:** Live and recorded classes, practice sessions, and online assessments.
+- **Offline Learning:** Instructor-guided classroom sessions, laboratory practice, and collaborative projects.
 
-## Project Structure
+### 3. Modern User Interface
+- Clean and minimal design.
+- Organized content sections.
+- Modern typography.
+- Consistent colour scheme.
+- Easy-to-understand navigation.
+
+### 4. Student-Friendly Design
+The layout is designed to make course exploration simple and accessible for students.
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| HTML5 | Website structure |
+| CSS3 | Styling and layout |
+| JavaScript | Referenced for dynamic website functionality |
+| Google Fonts | Typography |
+
+## 📂 Project Structure
 
 ```text
-TechZentra/
+couse-_details/
 │
-├── index.html
+├── README.md
 ├── programs.html
-├── style.css
-└── README.md
+└── style.css
 ```
 
-## How to Run the Project
+**File Description:**
 
-1. Clone or download this repository.
-2. Open the project folder in Visual Studio Code.
-3. Open `index.html` in a browser.
-4. Explore the TechZentra learning platform.
+- `programs.html` – Contains the HTML structure of the programs catalogue page.
+- `style.css` – Contains the styling, layout, colours, and responsive design.
+- `README.md` – Provides project information and documentation.
 
-## Deployment
+## 🚀 How to Run the Project
 
-This project is hosted using Vercel and its source code is maintained on GitHub.
+Follow these steps to view the project locally:
 
-## Project Objective
+1. Clone the repository:
 
-The main objective of TechZentra is to make technical education more accessible, attractive, and engaging by presenting structured learning programs and practical skill-development opportunities.
+   ```bash
+   git clone https://github.com/cpoojasree944/couse-_details.git
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd couse-_details
+   ```
+
+3. Open `programs.html` in your browser.
+
+**Note:** The HTML currently references `js/site.js`. Make sure the corresponding JavaScript file is added to the project for the dynamic course catalogue, header, and footer functionality to work correctly.
+
+## 🌐 Project Repository
+
+GitHub: https://github.com/cpoojasree944/couse-_details
+
+## 🔮 Future Improvements
+
+- Add detailed pages for every technology program.
+- Include course syllabus and learning outcomes.
+- Add search and filtering functionality.
+- Add student registration and login.
+- Include project demonstrations and learning resources.
+- Improve accessibility and mobile responsiveness.
+
+## 👩‍💻 Author
+
+**Developed by:** Pooja Sree
+
+GitHub: [@cpoojasree944](https://github.com/cpoojasree944)
 
 ---
 
-**TechZentra – Learn Today, Build Tomorrow.**
+⭐ If you find this project interesting, consider giving the repository a star!
 
-Website deployment update.
+**TechZentra – Learn Today. Build Tomorrow.**
